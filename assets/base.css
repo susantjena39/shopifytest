@@ -2960,4 +2960,4 @@ details-disclosure > details {
 
 
 /* custom css */
-header.header.header--middle-left.header--mobile-center.page-width.header--has-menu { background: violet !important; }
+sticky-header.header-wrapper { background: tan !important; }
